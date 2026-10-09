@@ -1,5 +1,5 @@
 # SODVI — Plataformer 2D en Pixel Art
-## RAMA main
+## RAMA development
 
 Repositorio del proyecto de videojuego desarrollado por **SODVI (Sociedad de Videojuegos)**.
 

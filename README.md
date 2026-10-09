@@ -62,4 +62,4 @@ Repositorio del proyecto de videojuego desarrollado por **SODVI (Sociedad de Vid
 
 ## Ubicaciones Importantes
 
-- `TRELLO`: - [TRELLO EQUIPO 14](https://trello.com/invite/b/6ab868bff07ccf790f4607b6/ATTIa8427d24ae01bf86e0b54396c4398411921CD5FB/sodvi-l2-proyecto)
+- TRELLO: - [TrelloEquipo14](https://trello.com/invite/b/6ab868bff07ccf790f4607b6/ATTIa8427d24ae01bf86e0b54396c4398411921CD5FB/sodvi-l2-proyecto)

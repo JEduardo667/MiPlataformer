@@ -18,7 +18,13 @@ Repositorio del proyecto de videojuego desarrollado por **SODVI (Sociedad de Vid
 
 | Nombre | Rol |
 |---|---|
-| _Por definir_ | _Por definir_ |
+| _Por definir_ | Coder/Programador |
+| _Por definir_ | Artista |
+| _Por definir_ | Musico |
+| _Por definir_ | Escritor |
+| José Eduardo Martínez García | Proyect Manager |
+
+
 
 ## Requisitos
 
